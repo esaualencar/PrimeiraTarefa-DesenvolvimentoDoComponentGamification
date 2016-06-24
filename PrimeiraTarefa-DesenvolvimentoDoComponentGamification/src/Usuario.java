@@ -24,7 +24,7 @@ public class Usuario implements Serializable{
 
 
 	public Map<String, Double> getPontuacao() {
-		return _pontuacao;
+		return _pontuacao; 
 	}
 
 
